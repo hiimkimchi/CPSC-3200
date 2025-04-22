@@ -1,0 +1,15 @@
+/Users/wabki/Documents/Programming/P1/P3/bin/Debug/net6.0/P3
+/Users/wabki/Documents/Programming/P1/P3/bin/Debug/net6.0/P3.deps.json
+/Users/wabki/Documents/Programming/P1/P3/bin/Debug/net6.0/P3.runtimeconfig.json
+/Users/wabki/Documents/Programming/P1/P3/bin/Debug/net6.0/P3.dll
+/Users/wabki/Documents/Programming/P1/P3/bin/Debug/net6.0/P3.pdb
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.csproj.AssemblyReference.cache
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.AssemblyInfoInputs.cache
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.AssemblyInfo.cs
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.csproj.CoreCompileInputs.cache
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.dll
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/refint/P3.dll
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.pdb
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/P3.genruntimeconfig.cache
+/Users/wabki/Documents/Programming/P1/P3/obj/Debug/net6.0/ref/P3.dll
