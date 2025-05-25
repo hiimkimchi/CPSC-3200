@@ -1,7 +1,7 @@
 # Object Oriented Programming (CPSC 3200)
 Taken at Seattle University with Dr. Adair Dingle
 
-## Basic Topics Covered: 
+## Main Topics Covered: 
 - Contractual Design (keep the client in mind as the designer)
 - Polymorphism (Inheritance, Dependency Injection, Interfaces)
 - Abstraction (Custom operations)
