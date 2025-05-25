@@ -1,0 +1,3 @@
+/Users/wabki/Documents/Programming/P2/cmake-build-debug/CMakeFiles/P2.dir
+/Users/wabki/Documents/Programming/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wabki/Documents/Programming/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
