@@ -1,6 +1,12 @@
 # Object Oriented Programming (CPSC 3200)
 Taken at Seattle University with Dr. Adair Dingle
 
+## Basic Topics Covered: 
+- Contractual Design (keep the client in mind as the designer)
+- Polymorphism (Inheritance, Dependency Injection, Interfaces)
+- Abstraction (Custom operations)
+- Dynamic memory management (C++ move + copy semantics, smart pointers)
+
 ### **P1:** 
 - _Written in C#_
 - Focused on defining a "MsgStream" object based on contractual design
