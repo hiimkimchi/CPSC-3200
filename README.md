@@ -14,18 +14,20 @@ Taken at Seattle University with Dr. Adair Dingle
 ### **P3:**
 - _Written in C#_
 - Focused on defining a "DurableStream" object that uses inheritance to build on the "MsgStream" object for polymorphism
-- 
+- Does not change implementation already made to "PartitionStream"
 
 ### **P4:**
 - _Written in C++_
-- Focused on defining custom operators for each class
-- 
+- Focused on defining custom operators for each class (except DurableStream)
+- Reconsidered the extent of custom operators due to contractual design (Some operators do not make sense to implement such as multiplication. We have additive operators but it acts as concatination/appending)
 
 ### **P5:**
 - _Written in C#_
 - Focused on multiple inheritance between "SubscriberMsgStream" and "SubscriberPartitionStream" objects using an interface "ISubscriber"
-- 
+- Added extra type checking for DeepCopy. Ex: SubscriberMsgStream is not a MsgStream, but rather both an ISubscriber and MsgStream
 
-
+## Languages, Resources, and IDEs used:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
