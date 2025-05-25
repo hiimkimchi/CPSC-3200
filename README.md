@@ -6,6 +6,7 @@ Taken at Seattle University with Dr. Adair Dingle
 - Polymorphism (Inheritance, Dependency Injection, Interfaces)
 - Abstraction (Custom operations)
 - Dynamic memory management (C++ move + copy semantics, smart pointers)
+##
 
 ### **P1:** 
 - _Written in C#_
