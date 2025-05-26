@@ -33,7 +33,7 @@ Taken at Seattle University with Dr. Adair Dingle
 - Focused on multiple inheritance between "SubscriberMsgStream" and "SubscriberPartitionStream" objects using an interface "ISubscriber"
 - Added extra type checking for DeepCopy. Ex: SubscriberMsgStream is not a MsgStream, but rather both an ISubscriber and MsgStream
 
-## Languages, Resources, and IDEs used:
+## Languages, Tools, and Resources used:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
