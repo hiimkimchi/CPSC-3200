@@ -1,4 +1,4 @@
-# Object Oriented Programming (CPSC 3200)
+# Object Oriented Design (CPSC 3200)
 Taken at Seattle University with Dr. Adair Dingle
 
 ## Main Topics Covered: 
